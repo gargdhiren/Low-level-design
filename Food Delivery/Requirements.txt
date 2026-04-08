@@ -1,0 +1,4 @@
+1. User can search for restaurants based on location
+2. user can add items to cart
+3. user can checkout by making payements
+4. user should be notified once order is placed successfully
